@@ -1,28 +1,40 @@
-name: Quilter.io
-favicon: null
-layout_spectrum: 0.5841812244616449
-typography_spectrum: 0.7680421827826649
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+layout_spectrum: 1
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0.4280639255885035
+  brandStrength: 0.4826794760301709
+  rhythmicContrast: 0.1160637361463159
   brandColors:
     - '#E0FBFC'
     - '#C2DFE3'
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0.4826794760301709
   lightness: 0.9702470016200095
-  saturation: 0.4280639255885035
-  rhythmicContrast: 0.11606373614631593
-purpose: []
+typography_spectrum: 0.5934479
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Quilter.io

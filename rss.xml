@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Quilter.io]]></title>
         <description><![CDATA[Quilter.io]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/quilter-io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 23:14:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 28 Dec 2015 16:26:49 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/quilter-io/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[What makes a good Serger thread?]]></title>
-            <description><![CDATA[<article><h1>What makes a good Serger thread?</h1><p>There's a lot that goes into the production of thread. Serger thread is commonly associated with the bargain bin threads you can pick up from your local chain store that has more fuzz than </p></article>]]></description>
-            <link>undefinedwhat-makes-a-good-serger-thread/index.html</link>
+            <description><![CDATA[<article><h1>What makes a good Serger thread?</h1><p>There's a lot that goes into the production of thread. Serger thread is commonly associated with the bargain bin cones of thread you can purchase from your local chain store that has more fuzz than bichon frise caught in a lightening storm.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8d1fb7e33ab67ff2a4e6c485b6ffba6a249917f3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/quilter-io/what-makes-a-good-serger-thread/index.html</link>
             <guid isPermaLink="false">66adcb19-0da8-43a6-bb84-5ec150bb1c08</guid>
-            <pubDate>Sat, 26 Dec 2015 23:14:12 GMT</pubDate>
+            <pubDate>Mon, 28 Dec 2015 16:26:23 GMT</pubDate>
         </item>
     </channel>
 </rss>

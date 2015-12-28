@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: How to choose a high-quality serger thread
-datePublished: '2015-12-28T16:26:23.599Z'
-dateModified: '2015-12-28T16:18:48.738Z'
+datePublished: '2015-12-28T16:26:55.444Z'
+dateModified: '2015-12-28T16:26:48.011Z'
 title: What makes a good Serger thread?
 author: []
 sourcePath: _posts/2015-12-26-what-makes-a-good-serger-thread.md

@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: How to choose a high-quality serger thread
-datePublished: '2015-12-28T16:32:21.641Z'
-dateModified: '2015-12-28T16:31:57.737Z'
+datePublished: '2016-01-11T19:20:31.747Z'
+dateModified: '2016-01-11T19:20:26.308Z'
 title: What makes a good Serger thread?
 author: []
 sourcePath: _posts/2015-12-26-what-makes-a-good-serger-thread.md

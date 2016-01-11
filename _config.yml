@@ -1,7 +1,7 @@
 name: Quilter.io
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.5934479
+layout_spectrum: 0.88014
+typography_spectrum: 0.43827
 collections:
   - index:
       path: /
